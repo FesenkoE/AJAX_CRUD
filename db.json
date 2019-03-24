@@ -1,0 +1,39 @@
+{
+  "motherboards": [
+    {
+      "name": "ASUS ROG",
+      "socket": "AM4",
+      "chipset": "B450",
+      "year": "2010",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "ASUS Prime",
+      "socket": "AM4",
+      "chipset": "A320",
+      "year": 2019
+    },
+    {
+      "id": 3,
+      "name": "ASRock",
+      "socket": "AM4",
+      "chipset": "A320",
+      "year": 2019
+    },
+    {
+      "id": 4,
+      "name": "ASUS TUF",
+      "socket": "AM4",
+      "chipset": "B450",
+      "year": 2019
+    },
+    {
+      "name": "Asus ROG",
+      "socket": "AM4",
+      "chipset": "B450",
+      "year": "2018",
+      "id": 5
+    }
+  ]
+}
